@@ -1,0 +1,6 @@
+{
+	"mapping": [ { "id": 0, "name": "Oven" },
+		      { "id": 1, "name": "Lamp" },
+		      { "id": 2, "name": "AirConditioner" }
+		]
+}
