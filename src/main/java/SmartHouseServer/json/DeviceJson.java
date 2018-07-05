@@ -41,7 +41,7 @@ public class DeviceJson {
 	}
 
 	public void setName(String name) {
-		this.state = name;
+		this.name = name;
 	}
 	public boolean getHoldingDifferentValues() {
 		return holdingDifferentValues;

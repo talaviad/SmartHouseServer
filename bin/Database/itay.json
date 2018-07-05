@@ -1,0 +1,21 @@
+{
+  "devices" : [ {
+    "id" : 0,
+    "name":"Oven",
+    "state" : "off",
+    "value" : 5.2,
+    "holdingDifferentValues" : true
+  }, {
+    "id" : 1,
+    "name":"Lamp",
+    "state" : "off",
+    "value" : 6.0,
+    "holdingDifferentValues" : false
+  }, {
+    "id" : 2,
+    "name":"AirConditioner",
+    "state" : "off",
+    "value" : 1.1123,
+    "holdingDifferentValues" : true
+  } ]
+}

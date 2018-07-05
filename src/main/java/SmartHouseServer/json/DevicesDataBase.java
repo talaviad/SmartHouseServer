@@ -49,7 +49,7 @@ public class DevicesDataBase {
 			dj.setState(devices.get(user).get(i).getState());
 			dj.setValue(devices.get(user).get(i).getValue());
 			dj.setHoldingDifferentValues(devices.get(user).get(i).isCapableOfMixedValus());
-			dj.setState(devices.get(user).get(i).getName());
+			dj.setName(devices.get(user).get(i).getName());
 			list.add(dj);
 		}
 		ObjectMapper mapper = new ObjectMapper();

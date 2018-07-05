@@ -14,7 +14,7 @@ public class ConnectionsImpl implements Connections{
 	private AtomicBoolean connLock;
 	
 	public ConnectionsImpl(){
-		activeUsers = new ConcurrentHashMap<>();
+		activeUsers = new ConcurrentHashMap<Integer, String>();
 		counter=0;
 		connLock=new AtomicBoolean(false);
 	}

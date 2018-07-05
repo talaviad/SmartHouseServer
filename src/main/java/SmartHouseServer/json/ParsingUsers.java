@@ -10,8 +10,7 @@ import com.google.gson.Gson;
 public class ParsingUsers {
 
 	public static UserDataBase parseUsers(){
-		Gson gson =new Gson
-				();
+		Gson gson =new Gson();
 		BufferedReader br=null;
 		try{
 			br=new BufferedReader(new FileReader("Database//Users.json"));
