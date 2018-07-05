@@ -27,4 +27,4 @@ please let me know if for some reason the project doesnt work.
 
 if some things are uncleared please contact me and i will try to explain everything
 
-thnaks and have a nice and easy use :)
+thanks and have a nice and easy use :)
