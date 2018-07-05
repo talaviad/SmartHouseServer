@@ -1,8 +1,8 @@
 # SmartHouseServer
 ## Installing
 
-* Unzip the 'SmartHouseServer' file and import the attached project to eclipse
-* In src\main\java under SmartHouseServer.TPCmain package you can find the TPCmain.java file and run it.
+* Clone the git repository.
+* The entry point is under [*src\main\java\SmartHouseServer\TPCmain\TPCmain.java*](https://github.com/talaviad/SmartHouseServer/blob/master/src/main/java/SmartHouseServer/TPCmain/TPCmain.java).
 
 ### OR
 * Enter the command line and direct to the smarthouse.jar location
