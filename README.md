@@ -1,6 +1,6 @@
 # SmartHouseServer
 
-1. import the attached project to eclipse
+1. unzip the 'SmartHouseServer' file and import the attached project to eclipse
 2. in src\main\java under SmartHouseServer.TPCmain package you can find the TPCmain.java file and run it.
 
 	OR
