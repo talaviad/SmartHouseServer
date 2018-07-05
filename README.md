@@ -1,19 +1,19 @@
 # SmartHouseServer
 
-1. unzip the 'SmartHouseServer' file and import the attached project to eclipse
-2. in src\main\java under SmartHouseServer.TPCmain package you can find the TPCmain.java file and run it.
+1. Unzip the 'SmartHouseServer' file and import the attached project to eclipse
+2. In src\main\java under SmartHouseServer.TPCmain package you can find the TPCmain.java file and run it.
 
 	OR
-1. enter the command line and direct to the smarthouse.jar location
-2. make sure the 'Database' folder in the same folder as the jar file
-3. run it with some port number
+1. Enter the command line and direct to the smarthouse.jar location
+2. Make sure the 'Database' folder in the same folder as the jar file
+3. Run it with some port number
 
- pay attention, i entered the '5555' port automaticlly by eclipse
-
-
+ Pay attention, i entered the '5555' port automaticlly by eclipse
 
 
-some notes:
+
+
+Some notes:
 
 1. i implemented the server in Thread Per Client model but there is an infrastructure for other kind of implementations(Reactor etc)
 2. i supplied the server with small database, you can see it under the 'Database' folder
