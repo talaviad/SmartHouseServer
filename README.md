@@ -1,10 +1,10 @@
 # SmartHouseServer
-### Installing
+## Installing
 
 * Unzip the 'SmartHouseServer' file and import the attached project to eclipse
 * In src\main\java under SmartHouseServer.TPCmain package you can find the TPCmain.java file and run it.
 
-	OR
+### OR
 * Enter the command line and direct to the smarthouse.jar location
 * Make sure the 'Database' folder in the same folder as the jar file
 * Run it with some port number
