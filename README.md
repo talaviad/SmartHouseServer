@@ -15,17 +15,17 @@
 
 Some notes:
 
-1. i implemented the server in Thread Per Client model but there is an infrastructure for other kind of implementations(Reactor etc)
-2. i supplied the server with small database, you can see it under the 'Database' folder
-3. the 'DevicesIdsAndNames.json' file under 'Database'  is not in use but i left it for further implementations
+1. I implemented the server in Thread Per Client model but there is an infrastructure for other kind of implementations(Reactor etc)
+2. I supplied the server with small database, you can see it under the 'Database' folder
+3. The 'DevicesIdsAndNames.json' file under 'Database'  is not in use but i left it for further implementations
 
 ***********************
-******important note******
+******Important note******
 ***********************
 
-i tested the server several times over telnet and its all work fine so
+I tested the server several times over telnet and its all work fine so
 please let me know if for some reason the project doesnt work.
 
-if some things are uncleared please contact me and i will try to explain everything
+If some things are uncleared please contact me and i will try to explain everything
 
-thanks and have a nice and easy use :)
+Thanks and have a nice and easy use :)
