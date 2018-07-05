@@ -9,10 +9,6 @@
 * Make sure the 'Database' folder in the same folder as the jar file
 * Run it with some port number
 
- Pay attention, I entered the **5555** port automatically by eclipse.
-
-
-
 
 Some notes:
 
